@@ -12,7 +12,7 @@ const StyleHeader = styled.nav`
   align-items: center;
 `;
 
-const Logo = styled.nav`
+const Logo = styled.img`
   height: 50px;
   width: 50px;
 `;
